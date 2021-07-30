@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning: JDK16
 - 📫 How to reach me: phil@4loop.co.uk
 
+Wiki: https://github.com/4loopltd/4loopltd/wiki
+
 <!--
 **4loopltd/4loopltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
