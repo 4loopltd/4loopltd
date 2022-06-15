@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: JDK16
+- 🌱 I’m currently learning: Kotlin
 - 📫 How to reach me: phil@4loop.co.uk
 
 Wiki: https://github.com/4loopltd/4loopltd/wiki
