@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- - 🌱 I’m currently learning: Kotlin -->
+- 🌱 I’m currently learning: Google's ML Kit
 - 📫 How to reach me: phil@4loop.co.uk
 
 Wiki: https://github.com/4loopltd/4loopltd/wiki
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: phil@4loop.co.uk
-- 😄 Pronouns: ...
+- 📫 How to reach me: admin@4loop.co.uk
 - ⚡ Fun fact: ...
 -->
