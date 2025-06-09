@@ -11,9 +11,10 @@
 - **Security**: IAM, MFA, Encryption, DevSecOps
 
 ## 📌 Featured Projects
-- **Prison Visit Booking API** – Secure prison scheduling system for UK MoJ  
-- **[NHS Digital Passport](https://digital.nhs.uk/services/digital-staff-passport)** – Cloud-based healthcare verification system  
-- **Fintech Microservices** – Scalable backend for financial transactions  
+- **[Prison Visit Booking API](https://github.com/ministryofjustice/visit-scheduler)** – Secure scheduling api  
+- **[NHS Digital Passport](https://digital.nhs.uk/services/digital-staff-passport)** – Cloud-based healthcare verification system
+- **[My Account login](https://www.legalandgeneral.com/existing-customers/my-account-login/)** - Biometrics
+- **[Everyday Banking](https://www.lloydsbank.com/)** – Online banking  
   
 ## 🌱 Personal Projects & Work  
 - **Android Food Diary App (In Development)** – AI-powered meal tracking using **[Google ML Kit](https://developers.google.com/ml-kit/) & [TensorFlow Lite](https://www.tensorflow.org/)**  
