@@ -28,7 +28,7 @@
 📖 [GitHub Wiki](https://github.com/4loopltd/4loopltd/wiki) – Case studies & docs (coming soon)  
 
 ## 📫 Connect with Me
-📧 Email: phil@4loop.co.uk  
+📧 Email: admin@4loop.co.uk  
 🌍 Website: [4Loop Ltd](https://www.4loop.co.uk)  
 🔗 LinkedIn: [linkedin.com/in/phil-m-4loopltd](https://www.linkedin.com/in/phil-m-4loopltd)  
 
