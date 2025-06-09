@@ -1,9 +1,38 @@
-### Hi there 👋
+# Hi there 👋 I'm Philip Milne  
 
-- 🌱 I’m currently learning: Google's ML Kit
-- 📫 How to reach me: phil@4loop.co.uk
+🚀 **Software Developer | Cloud, Security & AI | Kotlin, Java**  
+🔍 Passionate about **secure, scalable architecture, ML, & backend systems**  
+💡 Founder of **4Loop Ltd**, delivering **cloud, mobile & backend solutions**  
 
-Wiki: https://github.com/4loopltd/4loopltd/wiki
+## 💻 Tech Stack
+- **Languages**: Kotlin, Java, Python, TypeScript
+- **Cloud & DevOps**: AWS, OpenShift, Kubernetes, Docker, CI/CD
+- **Backend**: Spring Boot, Microservices, Serverless
+- **Security**: IAM, MFA, Encryption, DevSecOps
+
+## 📌 Featured Projects
+- **Prison Visit Booking API** – Secure prison scheduling system for UK MoJ  
+- **[NHS Digital Passport](https://digital.nhs.uk/services/digital-staff-passport)** – Cloud-based healthcare verification system  
+- **Fintech Microservices** – Scalable backend for financial transactions  
+  
+## 🌱 Personal Projects & Work  
+- **Android Food Diary App (In Development)** – AI-powered meal tracking using **[Google ML Kit](https://developers.google.com/ml-kit/) & [TensorFlow Lite](https://www.tensorflow.org/)**  
+- **Kotlin & Angular Spring Cached Weather API** – Fast weather service and frontend 
+- **Android Live Wallpapers** – Weekend experiments in **creative, interactive visuals**
+  
+## 🌍 Personal Site & Links  
+📂 [Website](https://www.phil-milne.co.uk/desktop) – My links, another weekend experiment in website visuals :-)
+📂 [Weather](https://forecast.phil-milne.co.uk/) – Weather API  
+📂 [Apps](https://play.google.com/store/apps/developer?id=4LOOP) – Android  
+📖 [GitHub Wiki](https://github.com/4loopltd/4loopltd/wiki) – Case studies & docs (coming soon)  
+
+## 📫 Connect with Me
+📧 Email: phil@4loop.co.uk  
+🌍 Website: [4Loop Ltd](https://www.4loop.co.uk)  
+🔗 LinkedIn: [linkedin.com/in/phil-m-4loopltd](https://www.linkedin.com/in/phil-m-4loopltd)  
+
+---
+⭐ **Always open to new collaborations and contract opportunities!**
 
 <!--
 **4loopltd/4loopltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
