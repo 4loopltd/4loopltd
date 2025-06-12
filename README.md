@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Philip Milne  
+# Hi there 👋 I'm Phil Milne  
 
 🚀 **Software Developer | Cloud, Security & AI | Kotlin, Java**  
 🔍 Passionate about **secure, scalable architecture, ML, & backend systems**  
