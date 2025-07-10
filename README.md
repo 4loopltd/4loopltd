@@ -18,7 +18,7 @@
   
 ## 🌱 Personal Projects & Work  
 - **Android Food Diary App (In Development)** – AI-powered meal tracking using [Google ML Kit](https://developers.google.com/ml-kit/) & [TensorFlow Lite](https://www.tensorflow.org/)  
-- **Exploratory Research & Design** - Cognitive Mesh Architecture [HiveCell](https://github.com/4loopltd/HiveCell)
+- **Exploratory Research & Design** - Cognitive Mesh Architecture [Site](http://www.hivecell.4loop.co.uk/) [Repo](https://github.com/4loopltd/HiveCell)
 - **Kotlin & Angular Spring Cached Weather API** – Fast weather service and frontend 
 - **Android Live Wallpapers** – Weekend experiments in **creative, interactive visuals**
   
